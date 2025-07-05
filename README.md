@@ -10,8 +10,6 @@
 ### 👨‍💻 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧠 Machine Learning & Deep Learning:
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -37,13 +35,20 @@
 ![Rasterio](https://img.shields.io/badge/Rasterio-808080?style=for-the-badge&logo=python&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-### 📚 NLP & Text Processing:
+### 📚 NLP & Text Processing $ Web Frameworks:
 ![NLTK](https://img.shields.io/badge/NLTK-%2332CD32.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🖼️ Computer Vision:
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🧠 AI Frameworks:
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAGs-8E44AD?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ### 🛠️ Dev Tools & Databases:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
