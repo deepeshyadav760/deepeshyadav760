@@ -58,6 +58,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%230A66C2.svg?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23E6526F.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-%2301BFFF.svg?style=for-the-badge&logo=weaviate&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=deepeshyadav760&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
