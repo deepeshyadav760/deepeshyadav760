@@ -14,7 +14,7 @@
 
 ## 🎯 Goal: Become an **AI Engineer / AI Architect** building **scalable Agentic AI + GenAI systems** that create real-world impact through reliable, high-performance AI solutions.<br><br>
 
-## 🔗 Let's Connect!<br>
+## 🔗 Let's Connect!
 📂 Feel free to explore my repositories and collaborate! I'm always open to learning and new opportunities 🚀
 
 
