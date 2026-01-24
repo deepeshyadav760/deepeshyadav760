@@ -90,7 +90,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?deepeshyadav760=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deepeshyadav760&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/deepeshyadav760)
 
 ---
 
