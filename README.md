@@ -43,6 +43,9 @@
 
 ### 🖼️ Computer Vision:
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FFCC00?style=for-the-badge&logo=yolo&logoColor=black)
+![Image%20Processing](https://img.shields.io/badge/Image%20Processing-1ABC9C?style=for-the-badge&logo=adobe&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-2C3E50?style=for-the-badge&logo=googledocs&logoColor=white)
 
 ### 🧠 AI Frameworks:
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -52,7 +55,6 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge&logo=robotframework&logoColor=white)
-
 
 ### 🛠️ Dev Tools & Databases:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -67,12 +69,31 @@
 ![Weaviate](https://img.shields.io/badge/Weaviate-%2301BFFF.svg?style=for-the-badge&logo=weaviate&logoColor=white)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=deepeshyadav760&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepeshyadav760&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshyadav760&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+[![Deepesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepeshyadav760&theme=react-dark)](https://github.com/deepeshyadav760)
+
+---
+
+## 🧾 GitHub Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepeshyadav760&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepeshyadav760&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepeshyadav760&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepeshyadav760&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepeshyadav760&theme=github_dark&utcOffset=5.5)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deepeshyadav760&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
+## 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=deepeshyadav760&icon=0&color=0)](https://visitcount.itsvg.in)
