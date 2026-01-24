@@ -90,7 +90,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deepeshyadav760&theme=darkhub&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=deepeshyadav760&theme=darkhub&no-frame=true&margin-w=8)
 
 ---
 
