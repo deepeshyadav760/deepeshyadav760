@@ -90,7 +90,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deepeshyadav760)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepeshyadav760&show_icons=true&theme=radical)
 ---
 
 ## 👀 Profile Views
