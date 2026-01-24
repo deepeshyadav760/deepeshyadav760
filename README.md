@@ -1,21 +1,20 @@
 # 💫 About Me:
 👋 Hello! I'm **Deepesh Yadav**, an aspiring **AI Engineer** building **Agentic AI Systems** and **GenAI-powered applications**, and a final year **B.Tech student at Atria University, Bengaluru**.<br><br>
 
-📊 Passionate About:<br><br>
+📊 **Passionate About**:<br><br>
 🤖 **Agentic AI & AI Agents** – Building intelligent multi-agent systems for automation and decision-making.<br>
 🧩 **Generative AI (RAG + LLMs)** – Developing context-aware AI systems using retrieval, embeddings, and reasoning.<br>
 🏗️ **AI Architecture & Scalable Deployment** – Designing production-ready AI solutions with APIs, pipelines, and reliable workflows.<br>
 🧠 **Problem-Solving with AI** – Applying data-driven and system-driven approaches to solve real-world challenges.<br><br>
 
-🚀 Currently Learning & Working On:<br><br>
+🚀 **Currently Learning & Working On**:<br><br>
 ✅ **Agentic AI Hiring Platform** – AI-driven resume screening, candidate matching, and intelligent interview automation.<br>
-🔎 **RAG Systems & Vector Search** – Building secure and efficient retrieval pipelines using vector databases.<br>
 ⚙️ **Scalable AI Deployment** – FastAPI, Docker, real-time APIs, and production-focused ML/GenAI workflows.<br>
 📈 **Model Evaluation & Optimization** – Improving performance using strong metrics (Precision, Recall, F1, R², RMSE).<br><br>
 
-🎯 Goal: Become an **AI Engineer / AI Architect** building **scalable Agentic AI + GenAI systems** that create real-world impact through reliable, high-performance AI solutions.<br><br>
+🎯 **Goal**: Become an **AI Engineer / AI Architect** building **scalable Agentic AI + GenAI systems** that create real-world impact through reliable, high-performance AI solutions.<br><br>
 
-🔗 Let's Connect!<br>
+🔗 **Let's Connect!**<br>
 📂 Feel free to explore my repositories and collaborate! I'm always open to learning and new opportunities 🚀
 
 
