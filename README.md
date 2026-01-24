@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Deepesh Yadav, an aspiring Data Scientist, Building Agentic AI Hiring Plateform and a final year BTech student at Atria University, Bengaluru.<br><br>📊 Passionate About:<br><br>Data Analysis & Machine Learning – Uncovering patterns and insights from data.<br>Problem-Solving – Using data-driven approaches to tackle real-world challenges.<br>AI & Innovation – Exploring AI-driven solutions to enhance decision-making.<br>🚀 Currently Learning & Working On:<br><br>      📉 Data Visualization – Making complex data more understandable.<br>      🤖 Machine Learning – Building models to extract valuable insights.<br>      🧠 AI Applications – Developing intelligent systems for automation.<br>      🎯 Goal: Become a Data Scientist who leverages data to solve complex real-world problems and drive impactful solutions.<br><br>🔗 Let's Connect!<br>📂 Feel free to explore my repositories and collaborate! I'm always open to learning and new opportunities.
+👋 Hello! I'm Deepesh Yadav, an aspiring AI Engineer, Building Agentic AI Hiring Plateform and a final year BTech student at Atria University, Bengaluru.<br><br>📊 Passionate About:<br><br>Data Analysis & Machine Learning – Uncovering patterns and insights from data.<br>Problem-Solving – Using data-driven approaches to tackle real-world challenges.<br>AI & Innovation – Exploring AI-driven solutions to enhance decision-making.<br>🚀 Currently Learning & Working On:<br><br>      📉 Data Visualization – Making complex data more understandable.<br>      🤖 Machine Learning – Building models to extract valuable insights.<br>      🧠 AI Applications – Developing intelligent systems for automation.<br>      🎯 Goal: Become a Data Scientist who leverages data to solve complex real-world problems and drive impactful solutions.<br><br>🔗 Let's Connect!<br>📂 Feel free to explore my repositories and collaborate! I'm always open to learning and new opportunities.
 
 
 ## 🌐 Socials:
@@ -49,6 +49,10 @@
 ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAGs-8E44AD?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge&logo=OpenAI&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=for-the-badge&logo=robotframework&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge&logo=robotframework&logoColor=white)
+
 
 ### 🛠️ Dev Tools & Databases:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
