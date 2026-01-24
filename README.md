@@ -89,10 +89,5 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Metrics](https://metrics.lecoq.io/deepeshyadav760?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
-
----
-
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=deepeshyadav760&label=Profile%20Views&color=blue&style=for-the-badge)
