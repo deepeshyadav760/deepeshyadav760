@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm **Deepesh Yadav**, an aspiring **AI Engineer** building **Agentic AI Systems** and **GenAI-powered applications**, and a final year **B.Tech student at Atria University, Bengaluru**.<br><br>
+👋 Hello! I'm **Deepesh Yadav**, an aspiring **AI Engineer** building **Agentic AI Systems** and **GenAI-powered applications**, Currently exploring GeoAI and a final year **B.Tech student at Atria University, Bengaluru**.<br><br>
 
 ### 📊 Passionate About:<br><br>
 🤖 **Agentic AI & AI Agents** – Building intelligent multi-agent systems for automation and decision-making.<br>
