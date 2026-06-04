@@ -83,10 +83,14 @@
 ![Weaviate](https://img.shields.io/badge/Weaviate-%2301BFFF.svg?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepeshyadav760&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepeshyadav760&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshyadav760&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepeshyadav760&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshyadav760&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deepeshyadav760&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📈 Contribution Graph
