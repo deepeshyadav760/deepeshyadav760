@@ -49,7 +49,7 @@
 ![Rasterio](https://img.shields.io/badge/Rasterio-808080?style=for-the-badge&logo=python&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-### 📚 NLP & Text Processing $ Web Frameworks:
+### 📚 NLP & Text Processing & Web Frameworks:
 ![NLTK](https://img.shields.io/badge/NLTK-%2332CD32.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -78,9 +78,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🗄️ Vector Databases:
 ![FAISS](https://img.shields.io/badge/FAISS-%230A66C2.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23E6526F.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-%2301BFFF.svg?style=for-the-badge&logo=weaviate&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%236C4FF7.svg?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -91,6 +94,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=deepeshyadav760&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
