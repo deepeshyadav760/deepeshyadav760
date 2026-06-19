@@ -56,8 +56,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🖼️ Computer Vision:
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FFCC00?style=for-the-badge&logo=yolo&logoColor=black)
+![Vision%20Transformer%20(ViT)](https://img.shields.io/badge/Vision%20Transformer%20(ViT)-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Image%20Processing](https://img.shields.io/badge/Image%20Processing-1ABC9C?style=for-the-badge&logo=adobe&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-2C3E50?style=for-the-badge&logo=googledocs&logoColor=white)
 
