@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hello! I'm **Deepesh Yadav**, an aspiring **AI Engineer** building **Agentic AI Systems** and **GenAI-powered applications**, Currently exploring **GeoAI** and a final year **B.Tech student at Atria University, Bengaluru**.<br><br>
+👋 Hello! I'm Deepesh Yadav, **AI Engineer** passionate about building Agentic AI systems, Generative AI applications, and AI solutions for **Earth Observation**. I have hands-on experience working with **SAR (Synthetic Aperture Radar)** and **EO (Electro-Optical) satellite imagery**, developing AI-driven solutions for **geospatial intelligence**, **remote sensing**, and **Computer Vision**.
+
+Alongside my geospatial expertise, I design and build **LLM-powered applications**, **multi-agent AI systems**, **RAG pipelines**, and intelligent automation workflows using modern AI frameworks. I'm particularly interested in the intersection of **Computer Vision**, **GeoAI**, and **Generative AI**, where satellite imagery and foundation models can be combined to solve real-world problems.<br><br>
 
 ### 📊 Passionate About:<br><br>
 🤖 **Agentic AI & AI Agents** – Building intelligent multi-agent systems for automation and decision-making.<br>
